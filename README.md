@@ -12,13 +12,15 @@ A simple and user-friendly Currency Converter application that allows users to c
 
 ## 🛠️ Technologies Used
 
-- Python (or specify the language you used)
-- Tkinter / Flutter / HTML-CSS-JS (depending on your UI)
-- REST API (e.g., exchangerate-api, currencylayer, etc.)
+- HTML
+- CSS
+- JavaScript
 
-## 📷 Screenshots
+## 📷 Screenshot
 
-*(Optional: Add screenshots of your UI here)*
+![image](https://github.com/user-attachments/assets/46200e85-21e2-4b89-a979-0a0e45573479)
+
+
 
 ## 🚀 Getting Started
 
